@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EMS Billing Specialists]]></title>
         <description><![CDATA[EMS Billing Specialists]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ems-billing-specialists/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 22:40:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 22:45:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ems-billing-specialists/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Us</p>]]></description>
+            <link>https://thegrid.ai/ems-billing-specialists/054619e2-cdb6-4430-a8d6-c24f6c2eddb6/index.html</link>
+            <guid isPermaLink="false">054619e2-cdb6-4430-a8d6-c24f6c2eddb6</guid>
+            <pubDate>Fri, 13 May 2016 22:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ae8151-4cdb-4926-965e-efdfd9374687.jpg">]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/ems-billing-specialists/about-us/index.html</link>
             <guid isPermaLink="false">0bc8204d-1016-4b2a-afb9-4f304d0dc383</guid>
             <pubDate>Fri, 13 May 2016 22:40:08 GMT</pubDate>
         </item>
